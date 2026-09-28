@@ -1,157 +1,18 @@
-👋 Hi, I'm Tasmiya Shaikh
+# 💫 About Me:
+🔭 I’m currently working on<br>AI-powered applications, full-stack systems, and LLM-based solutions using Python, FastAPI, React, and MySQL.<br><br>👯 I’m looking to collaborate on<br>AI/ML, LLM applications, RAG systems, full-stack projects, and developer tools.<br><br>🤝 I’m looking for help with<br>Building scalable AI applications, improving RAG pipelines, and exploring advanced LLM architectures.<br><br>🌱 I’m currently learning<br>Advanced LLM integration, RAG pipelines, prompt engineering, multi-agent systems, and scalable backend development.<br><br>💬 Ask me about<br>Python, FastAPI, React, MySQL, LLM integration, RAG, prompt engineering, and building AI-powered applications.<br><br>⚡ Fun fact<br>I started with Computer Engineering and now I’m exploring the intersection of full-stack development and AI/LLMs.<br>
 
-💻 Full Stack Developer | AI & LLM Enthusiast
 
-I'm a Full Stack Developer passionate about building AI-powered applications, intelligent automation systems, APIs, and scalable web platforms.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tasmiya-shaikh-7b4939374?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tasmiyashaikh.ts786@gmail.com) 
 
-Currently working with Python, FastAPI, React, MySQL, LLMs, RAG pipelines, and AI integrations, with hands-on experience developing applications from backend architecture to frontend interfaces.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Zuizui-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Zuizui-07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zuizui-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🚀 What I'm Working On
+---
+[![](https://komarev.com/ghpvc/?username=Zuizui-07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🧠 Building AI-powered applications using LLMs, RAG pipelines, and prompt engineering
-
-💬 Working on DICE, a multi-channel messaging platform supporting WhatsApp, SMS, and Email
-
-🤖 Developing intelligent chatbot and multi-agent systems
-
-🔧 Building and integrating REST APIs and SDKs
-
-☁️ Working with AWS, Amazon RDS, Git, and GitHub
-
-📚 Currently learning Multi-Agent RAG systems, system design, FastAPI, and advanced prompt engineering
-
-🤝 Open to collaborating on AI, LLM, Python, and open-source projects
-
-🌐 Connect With Me
-
-
-
-
-
-💻 Tech Stack
-
-🐍 Languages
-
-
-
-
-⚡ Frameworks & Libraries
-
-
-
-
-
-
-
-
-
-🗄️ Databases
-
-
-
-
-
-🤖 AI & LLM
-
-
-
-
-
-
-
-🛠️ Tools & Platforms
-
-
-
-
-
-
-🚀 Projects
-
-🧠 Company Brain — In Progress
-
-AI-powered institutional memory platform for Auxilo Finserve, designed to help employees query internal knowledge and documents using RAG and PageIndex.
-
-Tech: FastAPI • MySQL • Groq API • React • RAG • PageIndex
-
-📨 DICE — Multi-Channel Messaging Platform
-
-A multi-channel SaaS messaging platform supporting WhatsApp, SMS, and Email campaigns.
-
-Features:
-
-📱 Multi-channel campaign management
-
-📊 Campaign and API usage tracking
-
-💳 Billing and pricing management
-
-📈 User analytics
-
-🤖 AI-powered chatbot
-
-🗄️ MySQL-based data management
-
-🧩 Multi-agent architecture
-
-🤖 DICE Chatbot
-
-AI-powered chatbot integrated into the DICE B2B platform for analyzing messaging and campaign data.
-
-Tech: Python • MySQL • GPT-4.1 mini • Multi-Agent Architecture
-
-🧠 Reputation Management Agent
-
-AI-powered system that analyzes company social media comments and helps administrators generate appropriate responses.
-
-Features:
-
-Analyzes customer comments
-
-Tracks customer queries
-
-Suggests responses
-
-Reflects responses on the admin panel
-
-💡 Areas of Interest
-
-🤖 Artificial Intelligence
-
-🧠 Large Language Models
-
-🔎 Retrieval-Augmented Generation (RAG)
-
-🧩 Multi-Agent Systems
-
-✨ Prompt Engineering
-
-🐍 Python Development
-
-⚡ FastAPI
-
-🌐 Full Stack Development
-
-🔌 API & SDK Development
-
-🗄️ Database Architecture
-
-☁️ AWS & Cloud
-
-🏗️ System Design
-
-📊 GitHub Stats
-
-
-
-
-
-
-
-🏆 GitHub Trophies
-
-
-
-💭 "Build. Learn. Iterate. Repeat."
-
-Thanks for visiting my profile! 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
